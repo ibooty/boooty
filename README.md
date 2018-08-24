@@ -1,2 +1,2 @@
 # boooty
-welcome to boooty.usa.cc
+welcome to http://boooty.usa.cc
