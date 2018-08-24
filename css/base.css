@@ -1,0 +1,46 @@
+body {
+    font-family: "微软雅黑";
+    background: url(../images/bg.png) repeat-x;
+    background-color: #C4D6E9;
+	
+}
+img {
+    border: 0px;
+}
+body a{
+	color: #666;
+}
+a:hover{
+	color: #666;
+}
+#logo,#post,#videoUrl,#notice,#show,#footer{
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+#logo{
+	display: table;
+	margin-top: 70px;	
+}
+#post{
+	margin-top: 50px;
+	margin-bottom:20px;
+}
+#videoUrl{
+	margin-top: 20px;
+
+}
+#footer{
+	text-align:center;
+	
+}
+#show{
+	margin-top: 20px;
+	word-wrap: break-word;
+	word-break: normal;
+}
+#ad{
+	
+	margin-left: auto;
+	margin-right: auto;
+}
